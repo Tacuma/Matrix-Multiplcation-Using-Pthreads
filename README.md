@@ -1,7 +1,7 @@
 #Matrix Multiplication Using PThreads
 
 
-#Description
+#Description:
 Given two matrices, A and B, where matrix A contains M rows and K columns and matrix B contains K rows and N columns, the matrix product of A and B for matrix C,
 where C contains M rows and N columns. This program calculates each element C in a separate worker thread.
 
