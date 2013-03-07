@@ -10,7 +10,7 @@ of 2 dimensional arrays with memory being allocated for matrix C.
 These matrices are declared public so that they can be accessed by the workers. 2 classes are used in the implementation, 
 the MatrixMultiplication class and the WorkerThread class. 
 
-Using Pthreads
+Using Pthreads:
 Using pthreads is similar in theory to that of Java but different in execution. 
 The entire program is executed in one file, which the calculating construct being a procedure.  
 Like in java threads, the values for M, K and N are defined and initialized. The rules for executing Pthreads however, are different.  
